@@ -1,0 +1,3 @@
+DREAMER = "dreamer"
+INSPIRER = "inspirer"
+ROLES = [DREAMER, INSPIRER]
